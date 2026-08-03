@@ -1,0 +1,22 @@
+{
+    "name": "TMPEffects.EditorTests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:39259e5bba3847541badd70daa60b8c6",
+        "GUID:8573bbd0d87bce8438bda316ec0130ec"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "noEngineReferences": false
+}
