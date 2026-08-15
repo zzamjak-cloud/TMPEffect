@@ -1,7 +1,7 @@
 {
   "name": "com.zzamjak.tmpeffects",
   "displayName": "TMP Effects",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "6000.0",
   "description": "TextMeshPro에 Outline, Glow, Animation, Curve, MaskFlow 등 모바일 최적화 효과를 추가하는 패키지입니다.",
   "documentationUrl": "https://github.com/zzamjak-cloud/TMPEffect",

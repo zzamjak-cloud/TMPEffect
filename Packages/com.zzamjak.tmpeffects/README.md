@@ -8,13 +8,13 @@ Material 자동 공유, GC 제거, 더티 체크 최적화로 Galaxy S10 / iPhon
 Unity Package Manager → **Add package from git URL...** 에 아래 주소를 입력합니다.
 
 ```
-https://github.com/zzamjak-cloud/TMPEffect.git?path=Assets/TMPEffects
+https://github.com/zzamjak-cloud/TMPEffect.git?path=/Packages/com.zzamjak.tmpeffects
 ```
 
 특정 버전 설치:
 
 ```
-https://github.com/zzamjak-cloud/TMPEffect.git?path=Assets/TMPEffects#v1.0.0
+https://github.com/zzamjak-cloud/TMPEffect.git?path=/Packages/com.zzamjak.tmpeffects#v1.0.1
 ```
 
 ## 컴포넌트 요약

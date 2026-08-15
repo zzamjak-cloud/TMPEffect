@@ -1,5 +1,10 @@
 # Change Log:
 
+## 1.0.1
+
+- 패키지를 Assets/TMPEffects 에서 Packages/com.zzamjak.tmpeffects 임베디드 패키지로 이전 (설치 URL 경로 변경)
+- 패키지 폴더에 LICENSE.md 추가
+
 ## 1.0.0
 
 - 최초 릴리스
